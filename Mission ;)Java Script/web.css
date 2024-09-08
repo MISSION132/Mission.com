@@ -30,13 +30,11 @@ nav {
 }
 
 nav img {
-   width: 150px; /* Adjust the width as needed */
-   height: 150px; /* Set the height equal to the width */
-   border-radius: 50%; /* This makes the image circular */
-   object-fit: cover; /* Ensures the image covers the circle area */
+   width: 150px;
    color: orangered;
    opacity: 40;
 }
+
 
 .nav-links {
    flex: 1;
